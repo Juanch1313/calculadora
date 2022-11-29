@@ -1,4 +1,4 @@
-#Calculator
+# Calculator
 
 Calculator made with ReactJS
 
